@@ -1,0 +1,4 @@
+interface:
+  display_name: "Push PR"
+  short_description: "Push the current feature branch safely after commits."
+  default_prompt: "Push the current Git branch after verifying it is not main or develop."
